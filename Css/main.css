@@ -1,0 +1,31 @@
+h4{
+    color: rgb(68, 18, 206);
+}
+img{
+
+    height: 200px;
+    width: 200px;
+
+}
+.heading{
+    color: brown;
+}
+.nmmm{
+    color: aqua;
+}
+#value{
+    color:rgb(13, 211, 23)
+}
+ul{
+list-style: none;
+
+}
+.decoration{
+    /* text-decoration: underline;      */
+text-decoration: dele;
+}
+.text-transform{
+    text-transform: lowercase;
+    text-transform: capitalize;
+text-transform: uppercase;
+}
